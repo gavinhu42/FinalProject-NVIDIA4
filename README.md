@@ -32,3 +32,10 @@ Requirments:
 - YOLOv8
 - Python 3
 - ONNX-compatible classification model
+
+
+  ------Author Info------
+  
+Gavin Hu  
+Jetson Nano Final Project  
+GitHub: [@gavinhu42](https://github.com/gavinhu42)
